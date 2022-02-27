@@ -1,2 +1,3 @@
 # Real-time-Clock
-This is basic project which shows time built using the HTML, Bootstrap and JavaScript
+This is basic project which shows Time and Date 
+It was built using the HTML, Bootstrap and JavaScript.
